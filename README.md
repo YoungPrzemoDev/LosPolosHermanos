@@ -2,9 +2,9 @@
 >> ##MENU
 
 ------------------------
-|Chickens|Flavors|Tacos|
+| Chickens | Flavors | Tacos |
 ------------------------
-|Spicy|Inne|
+| Spicy | Inne |
 ------------------------
-|Nuggets|Jakies|
+| Nuggets | Jakies |
 ------------------------
